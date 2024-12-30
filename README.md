@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishek-3158
 - 👀 I’m interested in Computers development and designing
-- 🌱 I’m currently learning BCA
+- 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on coding purposes
 - 📫 How to reach me my github account or mail.
 
